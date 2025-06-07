@@ -30,6 +30,11 @@ The following tools and techniques were used to transform raw data into an insig
 
 ---
 
+## 📁 Project Files
+📥 Download Dashboard: You can [download the Power BI .pbix file here](https://drive.google.com/file/d/1FMX31jAArvJLj32A8TP7F9g7OkvK5hMm/view?usp=sharing) to explore the dashboard and data model.
+
+---
+
 ## 🔍 How to Use
 
 1. Clone or download this repository:
